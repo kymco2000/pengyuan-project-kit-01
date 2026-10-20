@@ -1,0 +1,14 @@
+*.zip
+*.7z
+*.docx
+*.pdf
+*.xlsx
+*.xlsm
+*.png
+*.jpg
+*.pem
+*.pfx
+*.key
+.env*
+full-project/
+local-only/
